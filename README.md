@@ -1,8 +1,8 @@
-# Hi, I'm Preet Badera 👋
+# Hello, I'm Preet Badera 
 
 🎓 BTech CSE Student
 💻 Web Developer & Aspiring Software Developer
-☕ Java | Python | C++ | MySQL | JavaScript
+☕ Java | Python | C++ | Angular JS | Node | MySQL | JavaScript
 🚀 Learning, Building & Growing in Tech
 📌 Open to Internship Opportunities
 
@@ -22,6 +22,7 @@ I am currently focused on strengthening my development skills and building stron
 
 * Frontend Development
 * HTML, CSS, JavaScript
+* Node, Angular JS
 * Java
 * Python
 * C++
@@ -36,15 +37,13 @@ I am currently focused on strengthening my development skills and building stron
 * E-commerce Website
 * Portfolio Website
 * Java Projects
-* Frontend Development Projects
+* Web Programming Projects
 
 ---
 
 ## 🌱 Currently Learning
 
 * Full Stack Development
-* Advanced Java
-* Backend Development
 * DSA & Problem Solving
 
 ---
