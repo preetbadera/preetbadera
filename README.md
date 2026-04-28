@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Preet Badera 👋
 
-<!--
-**preetbadera/preetbadera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student
+💻 Web Developer & Aspiring Software Developer
+☕ Java | Python | C++ | MySQL | JavaScript
+🚀 Learning, Building & Growing in Tech
+📌 Open to Internship Opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am passionate about web development and software development.
+
+I enjoy building real-world projects, solving problems, and continuously improving my technical skills.
+
+I am currently focused on strengthening my development skills and building strong projects for internship opportunities.
+
+---
+
+## 🚀 Tech Stack
+
+* Frontend Development
+* HTML, CSS, JavaScript
+* Java
+* Python
+* C++
+* MySQL
+* DBMS
+* Problem Solving
+
+---
+
+## 📂 Projects
+
+* E-commerce Website
+* Portfolio Website
+* Java Projects
+* Frontend Development Projects
+
+---
+
+## 🌱 Currently Learning
+
+* Full Stack Development
+* Advanced Java
+* Backend Development
+* DSA & Problem Solving
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: [Preet Badera](https://www.linkedin.com/in/preet-badera-160405317)
+
+Email: [preetbadera@gmail.com](mailto:preetbadera@gmail.com)
